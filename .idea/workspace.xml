@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a165b19b-3113-402b-a29d-b696c08e30be" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTestTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="a165b19b-3113-402b-a29d-b696c08e30be" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -386,7 +384,7 @@
       <updated>1525285238270</updated>
       <workItem from="1525285252900" duration="565000" />
       <workItem from="1525287516918" duration="7994000" />
-      <workItem from="1525311073366" duration="1116000" />
+      <workItem from="1525311073366" duration="1376000" />
     </task>
     <servers />
   </component>
@@ -408,7 +406,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9675000" />
+    <option name="totallyTimeSpent" value="9935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="25" width="1301" height="743" extended-state="7" />
